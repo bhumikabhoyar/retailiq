@@ -1,0 +1,10 @@
+# big or private files
+data/
+venv/
+.venv/
+outputs/
+__pycache__/
+*.pyc
+.env
+*.xlsx
+*.parquet
